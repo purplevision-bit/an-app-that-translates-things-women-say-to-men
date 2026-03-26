@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Next.js Template",
-  description: "A minimal Next.js starter template",
+  title: "She Said What? — Women-to-Men Translator",
+  description: "Decode what women really mean. A humorous translator for the phrases men never quite understand.",
 };
 
 export default function RootLayout({
