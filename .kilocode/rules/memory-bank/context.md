@@ -88,3 +88,4 @@ export async function GET() {
 |------|---------|
 | Initial | Template created with base setup |
 | 2026-03-26 | Built "She Said What?" women-to-men translator with 25+ phrase mappings |
+| 2026-03-26 | Added footer with X, Instagram, and Buy Me a Coffee links |
